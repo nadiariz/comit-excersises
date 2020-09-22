@@ -1,0 +1,23 @@
+
+     .div1 {
+        display: inline-block;
+        border-right: 1px solid orange; 
+        background-color: red;
+        padding: 20px;
+        margin-right: 10px;
+      }
+      .div2 {
+          display: inline-block;
+          border: 4px solid green;
+          padding: 30px 10px;
+          background-color: blue;
+      }
+      .div3 {
+          height: 50px;
+          width: 50px;
+          background-color: #00aced;
+      }
+      .div4 {
+          display: none;
+      }
+   

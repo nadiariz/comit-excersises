@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    color: rgba(210, 30, 30, 0.781);
+    font-size: larger;
+    font-weight: 200;
+}
+nav a {
+    display: inline-block;
+    font-size: large;
+    color: darkgreen;
+}
+
+div p:last-child {
+    background-color: turquoise;
+    color: midnightblue;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+div:hover :first-child{
+    background-color: olivedrab;
+}
+div:hover :nth-child(4){
+    background-color: palevioletred;
+    text-transform: uppercase;
+}
+  p { color: blue;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
