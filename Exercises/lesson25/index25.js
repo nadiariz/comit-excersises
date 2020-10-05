@@ -1,5 +1,5 @@
 "use strict";
-let weekDay = prompt("enter the weekday number between 1-7",7);
+let weekDay = +prompt("enter the weekday number between 1-7",7);
 if (weekDay==1) {
     alert ("It's Monday");
 }
